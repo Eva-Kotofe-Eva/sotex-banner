@@ -3,7 +3,8 @@
 Адаптивный HTML/CSS-баннер для главной страницы бренда SOTEX.  
 Баннер сделан без JavaScript, полностью на градиентах и тенях, с аккуратной мобильной версией.
 
-Демо: https://eva-kotofe-eva.github.io/sotex-banner/  
+## Демо:
+> https://eva-kotofe-eva.github.io/sotex-banner/  
 
 ## Превью
 
