@@ -63,3 +63,56 @@
 
 Проект можно свободно использовать и адаптировать под коммерческие и некоммерческие проекты компании SOTEX.
 Если будете использовать вне компании — буду рада, если в README останется ссылка на этот репозиторий.
+
+
+---
+
+## English version
+
+# SOTEX Banner
+
+Responsive HTML/CSS hero banner for the SOTEX brand homepage.  
+Built without JavaScript, only gradients, shadows and media queries, with a neat mobile layout.
+
+Demo: https://eva-kotofe-eva.github.io/sotex-banner/  
+
+## Preview
+
+> https://eva-kotofe-eva.github.io/sotex-banner/preview-desktop.png
+
+## Project structure
+
+- `index.html` — demo page with the connected banner.
+- `sotex-main-banner.css` — main stylesheet for the banner.
+- `img/` — source graphics:
+  - `sotex-495.png` — sprayer PNG with transparent background.
+  - `preview-desktop.png` — screenshot used in this README.
+
+## Highlights
+
+- **Pure HTML + CSS**  
+  No JS or external libraries.
+
+- **Gradient-based background**  
+  Wall, floor, blue glow and vertical stripes are created with:
+  `linear-gradient`, `radial-gradient`, `repeating-linear-gradient`.
+
+- **Responsive layout**  
+  Desktop, laptop and tablet/mobile breakpoints:
+  text rearranges, the sprayer moves under the text, lighting shifts.
+
+- **Careful typography & motion**  
+  Roboto-based fonts, small `text-shadow` for readability,  
+  subtle entrance animations with `@keyframes` and
+  `prefers-reduced-motion` support.
+
+## Re-use
+
+Designed to be easy to drop into existing projects:
+one CSS file, one HTML block and one PNG image; colors and sizes are adjusted directly in CSS.
+
+## License
+
+Free to use and adapt in SOTEX commercial and non-commercial projects.  
+For external projects, a link back to this repository is welcome but not required.
+
