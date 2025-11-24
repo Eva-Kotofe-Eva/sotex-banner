@@ -7,7 +7,7 @@
 
 ## Превью
 
-> https://eva-kotofe-eva.github.io/sotex-banner/sotex-banner/preview-desktop.png
+> https://eva-kotofe-eva.github.io/sotex-banner/preview-desktop.png
 
 ## Структура проекта
 
